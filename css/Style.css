@@ -1,0 +1,62 @@
+p { 
+        font-family: Arial, sans-serif;
+
+        font-size:20px
+
+    }
+
+        h1{
+            font-family: Arial, sans-serif;
+
+            font-size:40px
+                
+        
+
+        }
+        
+        h2{
+            
+        font-family: Arial, sans-serif;    
+        
+        font-size:30px
+        }
+        
+        body{
+            
+            height:100vh;
+
+            background: radial-gradient(#3D3D3D,#212121);
+
+        }
+        
+        h1{
+            color:white;
+
+        }
+        
+        h2{
+            color:white;
+        }
+        
+        p{
+            color:white;
+        }
+        
+        hr { border: none;
+             
+             height: 3px;
+             
+             background-color: darkgray;
+            
+             width: 100%;
+             
+             margin: 40px auto;
+            }
+        
+        a {
+            
+        font-family: Arial, sans-serif;
+
+        font-size:20px
+            
+        }
